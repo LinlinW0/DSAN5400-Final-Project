@@ -4,6 +4,8 @@
 
 ## Presentation: https://docs.google.com/presentation/d/1QHyylPeI6gZCaMGWRuhWLrI-jgMQAvQVwaRwXh1uxx8/edit?usp=sharing
 
+Team members: Keqin Liu, Linlin Wang, Zining Wang, Zhaoqian Xue
+
 ## Project Description: 
 
 Oscar, as the most prestigious and authoritative movie academy worldwide, appeals movie-lovers’ attention every year. This project, which os also created by 4 movie enthusiastic, analyzed the movie review from different platforms, and the movies are the 47 Oscar Best Picture nominations and winners from the year 2020 to 2024. 
