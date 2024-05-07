@@ -2,12 +2,9 @@
 Credits
 =======
 
-Development Lead
-----------------
-
-* Zining Wang <zw401@georgetown.edu>
-
 Contributors
 ------------
-
-None yet. Why not be the first?
+Zhaoqian Xue <zx136@georgetown.edu>
+Keqin Liu <kl972@georgetown.edu>
+Linlin Wang <lw849@georgetown.edu>
+Zining Wang <zw401@georgetown.edu>
