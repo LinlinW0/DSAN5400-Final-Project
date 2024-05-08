@@ -4,6 +4,8 @@
 
 ## Presentation: https://docs.google.com/presentation/d/1QHyylPeI6gZCaMGWRuhWLrI-jgMQAvQVwaRwXh1uxx8/edit?usp=sharing
 
+## Data for Download: https://drive.google.com/drive/folders/1TXkKi6Yfmtn7HCo3-RyQeffJ_BFdTO0d?usp=drive_link
+
 Team members: Keqin Liu, Linlin Wang, Zining Wang, Zhaoqian Xue
 
 ## Project Description: 
