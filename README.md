@@ -58,7 +58,7 @@ In the main execution block, an instance of SentimentComparison is created, and 
 
 ### Which platform is more predictive: 
 
-Script Path: 
+Script Path: dsan5400_final_project/src/dsan5400_final_project/5400_Final_Bert_Review_Sites_Comparison.py
 
 IMDB audiences are more positive towards the wining movie each year, which we evaluated by aggregating the rank of the wining movie, compares to other nominations each year. 
 
